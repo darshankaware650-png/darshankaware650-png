@@ -1,4 +1,3 @@
-//DARSHAN's ACCOUNT Handle by DSK_1207_
 # 💫 About Me:
 I’m currently pursuing a B.Tech in Computer Engineering at Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati.<br>I'm currently learning Java and DSA<br>
 
