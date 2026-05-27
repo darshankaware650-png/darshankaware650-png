@@ -54,13 +54,12 @@ Building a personal portfolio website using HTML, CSS and JavaScript.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshankaware650-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=darshankaware650-png&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankaware650-png&theme=dark&hide_border=false&layout=compact)
 
 ---
 
