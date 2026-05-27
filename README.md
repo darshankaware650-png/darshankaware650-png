@@ -1,5 +1,9 @@
-#  About Me:
-I’m currently pursuing a B.Tech in Computer Engineering at Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati.<br>I'm currently learning Java and DSA<br>
+# Hi 👋, I'm Darshan Kaware
+
+🎓 B.Tech Computer Engineering Student  
+📍 VPKBIET, Baramati  
+💻 Currently learning Java, DSA and Web Development  
+🚀 Interested in AI, Software Development and Problem Solving
 
 
 ## 🌐 Socials:
