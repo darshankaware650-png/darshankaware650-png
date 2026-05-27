@@ -18,7 +18,6 @@
 
 ## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,9 +51,6 @@ Practicing basic and intermediate DSA problems using Java.
 
 ### 🔹 Portfolio Website
 Building a personal portfolio website using HTML, CSS and JavaScript.
-
-### 🔹 AI Smart RC Car
-Planning to build a smart RC car using ESP32-CAM and AI-based features.
 
 ---
 
