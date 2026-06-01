@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darshan Kaware
+ Hi 👋, I'm Darshan Kaware
 
 🎓 I'm currently pursuing **B.Tech in Computer Engineering** at  
 **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati.**
