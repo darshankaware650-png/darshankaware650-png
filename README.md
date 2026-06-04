@@ -54,15 +54,6 @@ Building a personal portfolio website using HTML, CSS and JavaScript.
 
 ---
 
-## GitHub Stats
-
-[Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshankaware650-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=darshankaware650-png&theme=dark&hide_border=false)
-
-
----
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darshankaware650-png&color=blue)
